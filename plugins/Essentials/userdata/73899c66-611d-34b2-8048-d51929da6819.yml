@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 35.197.55.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703672874220
+  login: 1703672866549
+money: '0'
+last-account-name: Satpam
+logoutlocation:
+  world: f2a6f447-fcb4-454f-b33e-f744bde9b961
+  world-name: world
+  x: -150.64669347463536
+  y: 65.0
+  z: 782.7
+  yaw: -29.3990478515625
+  pitch: -7.200325965881348

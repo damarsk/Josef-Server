@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.244.134.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705383087776
+  login: 1705383082080
+money: '0'
+last-account-name: Kzo_
+logoutlocation:
+  world: f2a6f447-fcb4-454f-b33e-f744bde9b961
+  world-name: world
+  x: -149.5
+  y: 65.19568317254246
+  z: 781.5
+  yaw: 49.0195198059082
+  pitch: 31.499942779541016

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 167.235.242.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705803894446
+  login: 1705803894325
+money: '0'
+last-account-name: MynxScan241
+logoutlocation:
+  world: f2a6f447-fcb4-454f-b33e-f744bde9b961
+  world-name: world
+  x: -149.69999998807907
+  y: 65.0
+  z: 781.3000000119209
+  yaw: 3.681222915649414
+  pitch: -1.950325846672058

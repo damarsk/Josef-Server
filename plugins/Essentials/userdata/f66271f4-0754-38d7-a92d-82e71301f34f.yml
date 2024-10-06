@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.247.196.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704101252794
+  login: 1704094048867
+money: '0'
+last-account-name: Fantz_
+logoutlocation:
+  world: f2a6f447-fcb4-454f-b33e-f744bde9b961
+  world-name: world
+  x: -120.37327081205392
+  y: 59.0
+  z: 790.2304273473042
+  yaw: 186.60028076171875
+  pitch: 19.34975242614746
+lastlocation:
+  world: bfeb1b46-c890-4e45-bc7e-d4f5bc793ea1
+  world-name: world_the_end
+  x: 99.74242987782696
+  y: 49.0
+  z: 1.4772660451652557
+  yaw: 318.6026611328125
+  pitch: 52.349849700927734

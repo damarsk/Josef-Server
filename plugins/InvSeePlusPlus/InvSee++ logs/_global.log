@@ -1,0 +1,84 @@
+[2023-12-26 09:23:34] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : [ROTTEN_FLESH x 3, DIRT x 4, GRANITE x 2, DIORITE x 2, OAK_PRESSURE_PLATE x 2, OAK_LOG x 2]
+Given         : []
+Target        : MarrBOT
+[2023-12-26 09:23:43] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [IRON_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=46} x 1, IRON_LEGGINGS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=1}, Damage=44} x 1, IRON_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=46} x 1, IRON_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=46} x 1]
+Target        : MarrBOT
+[2023-12-26 09:23:55] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [IRON_SWORD & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DAMAGE_ARTHROPODS=2, FIRE_ASPECT=1}, repair-cost=3, Damage=35} x 1]
+Target        : MarrBOT
+[2023-12-26 09:24:08] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [SHIELD & TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=15, blockMaterial=SHIELD} x 1]
+Target        : MarrBOT
+[2023-12-26 09:24:33] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : [IRON_SWORD & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DAMAGE_ARTHROPODS=2, FIRE_ASPECT=1}, repair-cost=3, Damage=35} x 1, COBBLESTONE_SLAB x 2, OAK_PRESSURE_PLATE x 1, IRON_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=46} x 1, IRON_LEGGINGS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=1}, Damage=44} x 1, IRON_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=46} x 1, IRON_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=46} x 1, SHIELD & TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=15, blockMaterial=SHIELD} x 1]
+Given         : []
+Target        : MarrBOT
+[2023-12-26 10:37:39] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [IRON_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=98} x 1, IRON_LEGGINGS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=1}, Damage=88} x 1, IRON_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=99} x 1, IRON_PICKAXE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=243} x 1]
+Target        : MarrBOT
+[2023-12-26 13:22:04] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : [IRON_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=107} x 1, IRON_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=107} x 1, IRON_LEGGINGS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=1}, Damage=94} x 1, IRON_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=106} x 1, IRON_PICKAXE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=243} x 1, DIRT x 4, DIORITE x 2, COBBLESTONE_SLAB x 2, OAK_PRESSURE_PLATE x 3, ANDESITE x 11, GRANITE x 21, OAK_BUTTON x 1, OAK_LOG x 2, ROTTEN_FLESH x 3]
+Given         : []
+Target        : MarrBOT
+[2023-12-26 13:30:37] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [IRON_HELMET & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=107} x 1, IRON_CHESTPLATE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=107} x 1, IRON_LEGGINGS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=1}, Damage=94} x 1, IRON_BOOTS & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=1}, Damage=106} x 1, BOW & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={ARROW_DAMAGE=1}, Damage=14} x 1]
+Target        : Satpam
+[2023-12-26 13:30:43] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [IRON_PICKAXE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=243} x 1]
+Target        : Satpam
+[2023-12-26 13:30:43] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [IRON_PICKAXE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=243} x 1]
+Target        : Satpam
+[2023-12-26 13:30:55] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : [IRON_PICKAXE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=243} x 1]
+Given         : []
+Target        : Satpam
+[2023-12-26 13:31:52] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : [BOW & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={ARROW_DAMAGE=1}, Damage=14} x 1]
+Given         : [BOW & UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=383} x 1]
+Target        : Satpam
+[2023-12-26 13:31:57] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [OAK_BUTTON x 1, ANDESITE x 11, GRANITE x 21, OAK_PRESSURE_PLATE x 3, COBBLESTONE_SLAB x 2, DIORITE x 2, DIRT x 4, ROTTEN_FLESH x 3, OAK_LOG x 2]
+Target        : Satpam
+[2023-12-26 13:31:57] [INFO]:
+Spectator UUID: a8c4833b-8277-3e4b-8a36-c026632b3548
+Spectator Name: Omnivora
+Taken         : []
+Given         : [OAK_BUTTON x 1, ANDESITE x 11, GRANITE x 21, OAK_PRESSURE_PLATE x 3, COBBLESTONE_SLAB x 2, DIORITE x 2, DIRT x 4, ROTTEN_FLESH x 3, OAK_LOG x 2]
+Target        : Satpam

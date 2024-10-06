@@ -1,0 +1,23 @@
+location: josef_world:7427.982:93.587:-7719.708
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&a&lMode Survival'
+    height: 0.3
+  - content: '&6Klik kanan untuk Pergi!'
+    height: 0.3
+  - content: '#ENTITY: BOAT'
+    height: 0.7125
+  actions:
+    LEFT:
+    - 'CONSOLE: mvtp {player} world'
+    - 'CONSOLE: mvtp {player} world'
+    - CONSOLE:mvtp {player} world
+    RIGHT:
+    - 'CONSOLE: mvtp {player} world'
+    - CONSOLE:mvtp {player} world

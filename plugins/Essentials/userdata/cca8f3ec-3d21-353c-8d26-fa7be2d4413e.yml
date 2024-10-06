@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.137.195.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704612047099
+  login: 1704611884062
+money: '0'
+last-account-name: Dewanto
+logoutlocation:
+  world: e4eb27cd-967d-4b2e-bb00-146fef3ecf8f
+  world-name: josef_world
+  x: 7436.916881011796
+  y: 86.0
+  z: -7751.801800310439
+  yaw: -130.1927490234375
+  pitch: 89.39994049072266

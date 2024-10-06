@@ -1,0 +1,28 @@
+{
+  "global:moggla": {
+    "criteria": {
+      "trigger": "2023-12-26 23:06:54 +0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-12-26 23:06:54 +0700"
+    },
+    "done": true
+  },
+  "global:timber/timber": {
+    "criteria": {
+      "trigger": "2023-12-26 23:06:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2023-12-26 23:08:00 +0700",
+      "minecraft:forest": "2023-12-26 23:06:54 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

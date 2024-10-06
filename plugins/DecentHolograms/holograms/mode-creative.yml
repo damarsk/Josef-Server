@@ -1,0 +1,23 @@
+location: world:-143.500:66.000:791.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&6&lMode Creative'
+    height: 0.3
+  - content: '&aKlik Kanan untuk Pindah!'
+    height: 0.3
+  - content: '#ENTITY: PHANTOM'
+    height: 0.65
+    facing: 180.0
+  actions:
+    LEFT:
+    - CONSOLE:mvtp {player} josef_world
+    RIGHT:
+    - CONSOLE:mvtp {player} josef_world
+    - CONSOLE:mvtp {player} josef_world 1
+    - CONSOLE:mvtp {player} josef_world

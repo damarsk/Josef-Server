@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 34.74.178.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704386938409
+  login: 1704383358591
+money: '0'
+last-account-name: Server
+logoutlocation:
+  world: e4eb27cd-967d-4b2e-bb00-146fef3ecf8f
+  world-name: josef_world
+  x: 7448.481522269241
+  y: 92.0
+  z: -7718.54760293866
+  yaw: 134.56494140625
+  pitch: -1.1999855041503906
+mail:
+- legacy: false
+  read: false
+  message: Hello
+  sender-name: Omnivora
+  sender-uuid: a8c4833b-8277-3e4b-8a36-c026632b3548
+  timestamp: 1703666156815
+  expire: 0

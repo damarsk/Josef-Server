@@ -1,0 +1,26 @@
+# This global group will be applied to all players
+globalGroup:
+  prefix: ''
+  tabname: ''
+  suffix: ''
+groups:
+  exampleGroup:
+    prefix: '&a[&cStaff&a]&6 '
+    tabname: '%player-displayname%'
+    suffix: '&7 <12>'
+  Default:
+    prefix: '&7'
+    tabname: '%player%'
+    suffix: ''
+  Admin:
+    prefix: '&7<62>&r %anim:Admin%'
+    tabname: '%player%'
+    suffix: '&7 <62>'
+  PlayerName:
+    prefix: '&a[MyGroup]&7'
+    tabname: '%player%'
+    suffix: ''
+  mod:
+    prefix: '&8&l[&dMOD&8&l]&r '
+  penduduk:
+    prefix: '&8&l[&6Penduduk&8&l]&r '
